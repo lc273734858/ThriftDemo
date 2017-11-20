@@ -1,0 +1,15 @@
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\config\easyregister.json
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\Test.NetCoreServer.deps.json
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\Test.NetCoreServer.runtimeconfig.json
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\Test.NetCoreServer.runtimeconfig.dev.json
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\Test.NetCoreServer.dll
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\Test.NetCoreServer.pdb
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\apache-thrift-netcore.dll
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\FWW.EsayRegister.Common.dll
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\bin\Release\netcoreapp2.0\FWW.Thrift.EsayRegister.NetCoreService.dll
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.csprojResolveAssemblyReference.cache
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.csproj.CoreCompileInputs.cache
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.AssemblyInfoInputs.cache
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.AssemblyInfo.cs
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.dll
+F:\workfolder\testprojects\ThriftDemo\Test.NetCoreServer\obj\Release\netcoreapp2.0\Test.NetCoreServer.pdb

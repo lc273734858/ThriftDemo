@@ -1,0 +1,7 @@
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\obj\Debug\ServiceInterface.csprojResolveAssemblyReference.cache
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\bin\Debug\ServiceInterface.dll
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\bin\Debug\ServiceInterface.pdb
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\bin\Debug\Thrift.dll
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\bin\Debug\Thrift.pdb
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\obj\Debug\ServiceInterface.dll
+F:\workfolder\testprojects\ThriftDemo\ServiceInterface\obj\Debug\ServiceInterface.pdb

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EventBus2RMQ</name>
+    </assembly>
+    <members>
+        <member name="P:EventBus2RMQ.Consumer.EventName">
+            <summary>
+            接收的事件
+            </summary>
+        </member>
+        <member name="P:EventBus2RMQ.Consumer.ConsumerName">
+            <summary>
+            消费者名称
+            </summary>
+        </member>
+        <member name="M:EventBus2RMQ.Helper.OpenConnection(EventBus2RMQ.EventBus2RMQConfig)">
+            <summary>
+            
+            </summary>
+            <param name="user"></param>
+            <param name="psw"></param>
+            <param name="adress"></param>
+            <param name="port"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EventBus2RMQ.IResumer.ProcessData(System.String)">
+            <summary>
+            接收消息
+            </summary>
+            <param name="jsondata"></param>
+        </member>
+        <member name="M:EventBus2RMQ.IResumer.ErrorHandler(System.Exception)">
+            <summary>
+            错误处理
+            </summary>
+            <param name="ex"></param>
+        </member>
+        <member name="M:EventBus2RMQ.Service.PushData(System.Object,System.String,System.Nullable{System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="data"></param>
+            <param name="eventName"></param>
+            <param name="Persistent">数据是否持久化，默认持久化</param>
+        </member>
+    </members>
+</doc>

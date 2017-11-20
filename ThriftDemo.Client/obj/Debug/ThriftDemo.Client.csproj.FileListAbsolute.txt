@@ -1,0 +1,7 @@
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\bin\Debug\ThriftDemo.Client.exe.config
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\bin\Debug\ThriftDemo.Client.exe
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\bin\Debug\ThriftDemo.Client.pdb
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\bin\Debug\Thrift.dll
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\bin\Debug\Thrift.pdb
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\obj\Debug\ThriftDemo.Client.exe
+F:\workfolder\testprojects\ThriftDemo\ThriftDemo.Client\obj\Debug\ThriftDemo.Client.pdb

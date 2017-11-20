@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Rabbit.Zookeeper" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="apache-thrift-netcore">
+      <HintPath>..\DLL\apache-thrift-netcore.dll</HintPath>
+    </Reference>
+    <Reference Include="FWW.EsayRegister.Common">
+      <HintPath>..\DLL\FWW.EsayRegister.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="FWW.Thrift.EsayRegister.NetCoreService">
+      <HintPath>..\DLL\FWW.Thrift.EsayRegister.NetCoreService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="config\easyregister.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

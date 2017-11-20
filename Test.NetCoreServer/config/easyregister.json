@@ -1,0 +1,24 @@
+﻿{
+  "RegistCenterAdress": "192.168.134.192:2181",
+  "Services": [
+    {
+      "ServiceContract": "Test.NetCoreServer.HelloService,Test.NetCoreServer",
+      "ServiceImpl": "Test.NetCoreServer.BusinessImpl,Test.NetCoreServer",
+      "Adress": "192.168.134.192",
+      "Port": 2222,
+      "Weight": 1,
+      "GroupName": "test1",
+      "Version": "1.0"
+    },
+    {
+      "ServiceContract": "Test.NetCoreServer.HelloService,Test.NetCoreServer",
+      "ServiceImpl": "Test.NetCoreServer.BusinessImpl,Test.NetCoreServer",
+      "Adress": "192.168.134.192",
+      "Port": 2221,
+      "Weight": 1,
+      "GroupName": "test1",
+      "Version": "1.1"
+      //"Status": "1"
+    }
+  ]
+}

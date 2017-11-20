@@ -1,0 +1,9 @@
+F:\workfolder\testprojects\ThriftDemo\Server\bin\Debug\netcoreapp1.1\DotNetCoreServer.deps.json
+F:\workfolder\testprojects\ThriftDemo\Server\bin\Debug\netcoreapp1.1\DotNetCoreServer.runtimeconfig.json
+F:\workfolder\testprojects\ThriftDemo\Server\bin\Debug\netcoreapp1.1\DotNetCoreServer.runtimeconfig.dev.json
+F:\workfolder\testprojects\ThriftDemo\Server\bin\Debug\netcoreapp1.1\DotNetCoreServer.dll
+F:\workfolder\testprojects\ThriftDemo\Server\bin\Debug\netcoreapp1.1\DotNetCoreServer.pdb
+F:\workfolder\testprojects\ThriftDemo\Server\obj\Debug\netcoreapp1.1\DotNetCoreServer.csprojResolveAssemblyReference.cache
+F:\workfolder\testprojects\ThriftDemo\Server\obj\Debug\netcoreapp1.1\DotNetCoreServer.AssemblyInfo.cs
+F:\workfolder\testprojects\ThriftDemo\Server\obj\Debug\netcoreapp1.1\DotNetCoreServer.dll
+F:\workfolder\testprojects\ThriftDemo\Server\obj\Debug\netcoreapp1.1\DotNetCoreServer.pdb
